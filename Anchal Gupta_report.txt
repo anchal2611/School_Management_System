@@ -1,0 +1,25 @@
+Kendriya Vidyalaya, No. 2 DC APS 
+Student's Details:
++----------------------+-----------------------+
+| Field                | Value                 |
++----------------------+-----------------------+
+| Admission Number     | 12326                 |
+| Name                 | Anchal Gupta          |
+| Class                | 12                    |
+| Section              | A                     |
+| Mother's Name        | Priyanka Gupta        |
+| Father's Name        | JK Gupta              |
+| Contact Number       | +91-7986340947        |
+| Gender               | Female                |
+| Roll Number          | 6                     |
+| Class Teacher's Name | Dr. Mahesh Srivastava |
++----------------------+-----------------------+
++---------+-------+
+| Subject | Marks |
++---------+-------+
+|    CS   |   59  |
++---------+-------+
+Grade: A 
+Remarks: Great Going!  
+Conclusion: Anchal Gupta passed with 82.70270270270271% in 12. 
+Thank You!
